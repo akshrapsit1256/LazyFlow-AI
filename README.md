@@ -273,5 +273,13 @@ The Hacktoberfest 2026 Open-Source AI Challenge celebrates the power of decentra
 - **Ollama**: Open-source local inference runtime under the MIT License.
 
 ---
+## 👩‍💻 Author
+
+**Akshra**
+
+* GitHub: [@akshrapsit1256](https://github.com/akshrapsit1256)
+* Project: [LazyFlow AI](https://github.com/akshrapsit1256/LazyFlow-AI)
+
+Built with ❤️ using React, FastAPI, SQLite, and Ollama.
 
 *LazyFlow AI — Hacktoberfest 2026 Open-Source AI Challenge.*
