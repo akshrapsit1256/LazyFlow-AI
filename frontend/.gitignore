@@ -1,0 +1,41 @@
+# Python
+
+**pycache**/
+*.py[cod]
+.pytest_cache/
+.venv/
+venv/
+env/
+
+# Environment variables
+
+.env
+.env.*
+!.env.example
+
+# Frontend dependencies and builds
+
+node_modules/
+dist/
+
+# Local databases
+
+*.db
+*.sqlite
+*.sqlite3
+
+# AI model files
+
+*.gguf
+*.safetensors
+
+# Logs
+
+*.log
+
+# Editor and OS files
+
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
